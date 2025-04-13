@@ -1,0 +1,148 @@
+—== Préambule ==—
+
+Cette Constitution établit l’ensemble des règles et principes fondamentaux visant à garantir une expérience de jeu immersive, équilibrée et respectueuse sur Syndikat RP.
+ Chaque joueur, dès son entrée sur le serveur, s’engage à respecter les dispositions énoncées dans ce document.
+ La Constitution pourra être mise à jour au fil du temps, en fonction des évolutions du serveur et des retours de la communauté.
+ Il est également important de noter que Syndikat RP est un serveur semi-serious RP.
+
+
+Chapitre I – Des principes généraux et de la procédure
+
+Article 1 – Objet et champ d’application
+ La présente Constitution définit les règles de conduite, de roleplay, d’interaction, ainsi que l’usage des outils spécifiques à Syndikat RP.
+ Elle s’applique à tous les joueurs et membres de l’administration.
+
+Article 2 – Mise à jour du règlement
+ Le règlement peut être modifié à tout moment par l’équipe du serveur.
+ Chaque joueur a l’obligation de consulter régulièrement la version en vigueur.
+
+Article 3 – Propositions de nouvelles règles par les joueurs
+ Chaque joueur peut proposer une nouvelle règle, à condition qu’elle soit sérieuse, motivée et non redondante.
+ La proposition est transmise à un responsable via le canal prévu.
+ Après validation, la règle est publiée dans le salon d'information et entre en vigueur 15 jours plus tard.
+
+
+Chapitre II – De la conduite et du comportement
+
+Article 4 – Respect et maturité
+ Tout joueur doit adopter un comportement respectueux, mature et sérieux.
+ Les propos discriminatoires, insultants ou agressifs entraîneront des sanctions, pouvant aller jusqu’au bannissement définitif.
+
+Article 5 – Interdiction des comptes secondaires et des abus
+ Les doubles comptes sont interdits.
+ L’exploitation de bugs, failles, macros ou binds abusifs est sanctionnée.
+ Tout bug découvert doit être signalé à l’administration.
+
+Article 6 – Respect de l’autorité administrative
+ Les membres du Staff, Animateurs et Community Managers disposent d’une autorité légitime.
+ Toute forme d’irrespect à leur égard peut entraîner des sanctions disciplinaires.
+
+
+Chapitre III – Des règles de RolePlay (RP)
+
+Article 7 – Nouvelle Vie (New Life Rule - NLR)
+ Lorsqu’un joueur meurt, il oublie tout ce qui précède sa mort.
+ Il doit attendre la fin de la scène avant de retourner sur les lieux concernés.
+
+Article 8 – Interdictions RP majeures
+ Les comportements suivants sont strictement interdits :
+- NoPainRP / NoFearRP (refus de ressentir la douleur ou la peur),
+- FreeKill, FreeArrest, FreeTaze, FreePunch,
+- PropsKill / PropsBlock / PropsSurf,
+- MétaGaming (usage d’infos hors RP),
+- PowerGaming (actions irréalistes ou forcées),
+- Exploitation des mécaniques du jeu (bunnyhop, jumpshoot).
+
+Article 9 – Cohérence des interactions RP
+ Le RP doit être spontané et équitable.
+ Aucune action ne peut être forcée sans consentement.
+ Le langage HRP doit être clairement distingué via des préfixes (ex. : //).
+
+
+Chapitre IV – De la communication
+
+Article 10 – Communication RP et HRP
+ La communication en jeu doit être claire, respectueuse et adaptée au contexte RP.
+ Tout message HRP doit être encadré et identifié correctement.
+
+Article 11 – Système de ticket et signalement
+ Tout abus ou comportement fautif doit être signalé via le système de ticket officiel.
+ Les échanges avec le staff doivent se faire uniquement sur les canaux officiels.
+
+Article 12 – Plateformes externes et influence RP
+ Les communications sur Discord, TeamSpeak, etc., doivent rester purement organisationnelles durant les scènes RP.
+ Utiliser ces canaux pour obtenir un avantage RP constitue du méta-gaming.
+
+
+Chapitre V – Des props et constructions
+
+Article 13 – Placement logique des props
+ Les props doivent être placés de manière cohérente.
+ Ils ne peuvent servir à bloquer ou créer des zones inaccessibles sans système RP (keypad, fading-door...).
+
+Article 14 – Constructions et fair-play
+ Les constructions doivent être raisonnables et ne pas procurer d’avantage injuste.
+ Les gros chantiers doivent être signalés par un 3D2D Textscreen.
+ Il est interdit d’attaquer un joueur en pleine construction (signalée clairement).
+
+Article 15 – Dispositifs de sécurité
+ Les fading-doors, keypads et boutons doivent être utilisés correctement.
+ Les meurtrières sont interdites.
+ Toute manipulation abusive sera sanctionnée.
+
+Article 16 – Exploitation de glitch
+ Il est interdit d’utiliser des bugs pour voir à travers les props ou se rendre invisible depuis l’extérieur.
+
+
+Chapitre VI – Des armes et des affrontements
+
+Article 17 – Sommation avant usage d’arme
+ Toute utilisation d’arme doit être précédée d’une sommation RP.
+ Tirer depuis un véhicule ou sortir une arme de manière irréaliste est interdit.
+
+Article 18 – Braquages et prises d’otages
+ Les braquages et prises d’otages doivent se faire à deux minimum (sauf exceptions justifiées).
+ Deux policiers doivent être connectés pour lancer une action.
+ Des règles précises 
+sur les montants et délais doivent être respectées (à définir).
+
+Article 19 – Intervention des forces de l’ordre
+ Les forces de l’ordre (Police, Gendarmerie, GIGN…) doivent respecter les protocoles RP.
+ Tout manquement pourra entraîner des sanctions.
+
+
+Chapitre VII – Spécificités du serveur Garry’s Mod
+
+Article 20 – Nom RP et immersion
+ Chaque joueur doit avoir un nom RP sous le format « Prénom Nom », sans jeu de mots ou référence déplacée.
+ L’ambiance RP doit rester cohérente et immersive.
+
+Article 21 – Régulation des constructions dynamiques
+ Les constructions doivent rester raisonnables et équilibrées.
+ Le Staff se réserve le droit de supprimer ou limiter toute structure abusive.
+
+Article 22 – Interactions physiques et mécaniques de jeu
+
+ L’utilisation de mécaniques telles que le bunnyhop ou jumpshoot est surveillée.
+ L’usage de props en affrontement doit toujours être cohérent avec le RP.
+
+
+Chapitre VIII – Sanctions et procédure disciplinaire
+
+Article 23 – Sanctions et avertissements
+ Tout manquement au règlement peut entraîner des avertissements, des suspensions (30 jours minimum) ou un bannissement définitif, selon la gravité.
+
+Article 24 – Recours et contestations
+ Les décisions du staff sont finales, mais un recours peut être introduit via les canaux officiels (Discord, forum).
+
+Article 25 – Usage de la preuve vidéo
+ La vidéo est autorisée comme preuve lors d’un litige.
+ Elle peut être utilisée pour sanctionner un joueur et/ou justifier un remboursement en cas d’abus.
+
+Article 26 - équipe administrative 
+- Les personnes autorisées à prendre des sanctions sont :
+- Fondateur et co/fondateur
+- Responsable Staff
+- Administrateur
+- Modérateur 
+- Modérateur test
